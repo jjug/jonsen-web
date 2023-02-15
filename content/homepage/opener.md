@@ -13,8 +13,7 @@ JOnsen will be held on June 1st-3rd, 2023.
 
 ### Venue
 
-KAI Kinugawa, Tochigi Kinugawa Onsen
-https://hoshinoresorts.com/en/hotels/kaikinugawa/
+The event will be held in the suburbs of Tokyo. We will let you know as soon as the venue is decided.
 
 ### Registration
 
