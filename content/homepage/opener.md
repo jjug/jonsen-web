@@ -13,7 +13,10 @@ JOnsen will be held on June 1st-3rd, 2023.
 
 ### Venue
 
-The event will be held in the suburbs of Tokyo. We will let you know as soon as the venue is decided.
+Hoshino Resorts RISONARE Yatsugatake
+https://hoshinoresorts.com/en/hotels/risonareyatsugatake/
+
+{{< google-map >}}
 
 ### Registration
 
