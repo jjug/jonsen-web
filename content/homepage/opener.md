@@ -20,4 +20,5 @@ https://hoshinoresorts.com/en/hotels/risonareyatsugatake/
 
 ### Registration
 
-Registration for JOnsen 2023 will open soon.
+Registration details in link below.  
+https://jjug.doorkeeper.jp/events/154412
