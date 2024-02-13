@@ -1,5 +1,2 @@
-public
-
-*.exe
-*.lock
-.DS_Store
+/public
+/resources
