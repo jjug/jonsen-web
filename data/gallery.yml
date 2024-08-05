@@ -1,0 +1,13 @@
+---
+title : "Most relaxing Java Unconference in the world."
+enable: true
+subtitle: |
+        This unconference is hold for Java Developers,  
+        Java Communities in Japan and in all over the world.
+description: Images of past events
+galleryImage: 
+ - image: "images/gallery/gallery01.jpg"
+ - image: "images/gallery/gallery02.jpg"
+ - image: "images/gallery/gallery03.jpg"
+ - image: "images/gallery/gallery04.jpg"
+---
