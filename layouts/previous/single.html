@@ -1,0 +1,31 @@
+{{define "main"}}
+<article class="post">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="post-title">
+          <h2>{{.Title}}</h2>
+        </div>
+        <div class="post-image">
+          <img src="{{ .Params.featureImage | absURL}}" alt="feature-image">
+        </div>
+        <div class="post-body">
+          {{ .Content }}
+        </div>
+        <div class="row">
+          {{ range .Params.galleryImage }}
+            <div class="col-md-6">
+              <div class="gallery-item">
+                <a href="{{ .image | absURL }}" data-source="{{ .image | absURL }}"
+                   title="{{ .description }}">
+                    <img src="{{ .image | absURL }}" alt="gallery-images">
+                </a>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+{{end}}
